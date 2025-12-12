@@ -1,5 +1,8 @@
 # Mule and Mule/UM Utilities
 
+> [!Warning]
+> This fork is archived, development has moved to https://github.com/MetOffice/mule
+
 What is Mule?
 -------------
 
